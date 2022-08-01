@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+  box-sizing: inherit;
+  font-size: 1.6rem;
+}
+
+.main__heading {
+  font-size: 3.5rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 2rem;
+  text-transform: uppercase;
+}
